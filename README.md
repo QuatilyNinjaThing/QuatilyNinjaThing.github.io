@@ -59,8 +59,9 @@ Cuando el sitio esté desplegado con GitHub Pages, podrás acceder al portafolio
 
 ## 📬 Contacto
 
-- 📍 Santiago, Chile  
 - 📧 **Correo:** Fconsuelo156@gmail.com  
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/consuelo-f-122539305/  
+- 🐙 **GitHub:** https://github.com/QuatilyNinjaThing  
 - 📱 **Teléfono:** +56 9 2847 3479  
 
 Si deseas conocer más sobre mi trabajo o colaborar en proyectos tecnológicos, de análisis de datos o transformación digital, estaré encantada de conversar.
