@@ -2,7 +2,7 @@
 
 Este repositorio contiene mi portafolio profesional como estudiante de Ingeniería en Computación e Informática. Aquí encontrarás mi perfil, habilidades, proyectos destacados, experiencia profesional, servicios ofrecidos y certificaciones. El sitio web está construido utilizando HTML y CSS y se despliega mediante GitHub Pages.
 
-👉 Sitio web: https://consueloflores.github.io
+👉 Sitio web: https://quatilyninjathing.github.io
 
 ## Contenido del portafolio
 - Portada profesional
